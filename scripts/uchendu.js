@@ -1,5 +1,5 @@
 const email = "lindatochukwu30@gmail.com";
-const name = "Uchendu Tochukwu Linda";
+const name = "Uchendu Linda";
 const hng_id = "HNG-02664";
 const language = "Javascript";
 
